@@ -1,0 +1,3 @@
+Copied: /home/rafiki/workspace/static_website/static/index.html to /home/rafiki/workspace/static_website/public/index.html
+Copied: /home/rafiki/workspace/static_website/static/index.css to /home/rafiki/workspace/static_website/public/index.css
+Copied: /home/rafiki/workspace/static_website/static/images/rivendell.png to /home/rafiki/workspace/static_website/public/images/rivendell.png
